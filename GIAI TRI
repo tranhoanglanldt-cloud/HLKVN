@@ -39,8 +39,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=ht
 https://stm02bc48435558.stream.hdplaylink.com/live3/0e0b909153e54acf9d7d13c35a8acfc7_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="VOLLEYBALL", XT| KHÁN ĐÀI B
 https://stm02bc48435558.stream.hdplaylink.com/live3/4d0ebf2526a240778cee141273de40b9_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VOLLEYBALL", XT| BWF. Asia Championships Teams
-https://d302.soft4game.com/o22/stream171/o/stream171/chunks.m3u8?nimblesessionid=36039756&wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjYgNDo0OToxMiBBTSZoYXNoX3ZhbHVlPWVUWUZLOENROENMaW4yemNyUmRVcUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+#EXTINF:-1 group-title="VOLLEYBALL", XT| Gresik Petrokimia (w) - Jakarta Popsivo (w)
+https://d302.soft4game.com/o22/stream46/o/stream46/chunks.m3u8?nimblesessionid=36150119&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTA6NDU6NTAgQU0maGFzaF92YWx1ZT1hbkdqWklkMGpCMWdyRlFIbVNaU21nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 05:00 06/02 MACKENZIE vs BARUERI
 https://d302.soft4game.com/o22/stream498/o/stream498/chunks.m3u8?nimblesessionid=35995342&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgNTozMDozNyBQTSZoYXNoX3ZhbHVlPUg4dnd4ditmUzdlQ3hMaGpiaTdYZVE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 #EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 05:00 06/02 RENASCE SOROCABA vs FLUMINENSE
@@ -51,12 +51,13 @@ https://d302.soft4game.com/o22/stream174/s/stream174/chunks.m3u8?nimblesessionid
 https://d302.soft4game.com/o22/stream169/o/stream169/chunks.m3u8?nimblesessionid=36136533&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTo0NDo0MSBBTSZoYXNoX3ZhbHVlPWpRZ25EaDFLdVVIS2hXTkhEdlhtc1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 #EXTINF:-1 group-title="VOLLEYBALL", XT| MLV Women: 08:00 05/02 DALLAS PULSE vs OMAHA SUPERNOVAS
 https://a109.azplay24.me/hls/streama247702/index.m3u8?cst=8eb67d8bcc96a9b2f88dd0aff88f0e17
-#EXTINF:-1 group-title="VOLLEYBALL", XT| CVL
-https://d302.soft4game.com/o22/stream62/o/stream62/chunks.m3u8?nimblesessionid=35975032&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTE6Mzc6MDcgQU0maGFzaF92YWx1ZT1rVXdDejk0c243ODhTUmNESnlnNUZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", XT| TPL: Nakhon Ratchasima Plookpanya Khamtalaso - Nakhon Ratchasima
-https://d302.soft4game.com/o22/stream60/o/stream60/chunks.m3u8?nimblesessionid=35974882&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTE6MzQ6MTEgQU0maGFzaF92YWx1ZT1CUTlRNmVHakFnUmt6RkI4OFVac2h3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="VOLLEYBALL", XT| DAVIS CUP
+https://d302.soft4game.com/o22/stream11/o/stream11/chunks.m3u8?nimblesessionid=36150482&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTA6NTU6MjQgQU0maGFzaF92YWx1ZT1zRzZqWnE4TGVZOVhJSHAxV1ZNTThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="VOLLEYBALL", XT| DAVID CUP
+https://d302.soft4game.com/o22/stream537/o/stream537/chunks.m3u8?nimblesessionid=36150456&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTA6NTQ6MzUgQU0maGFzaF92YWx1ZT1CT29ITWw1U0NLaGhTNzNGZkx5cFpRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="VOLLEYBALL", XT| PVL 
-https://d302.soft4game.com/o22/stream583/o/stream583/chunks.m3u8?nimblesessionid=35977230&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTI6MjI6MjMgUE0maGFzaF92YWx1ZT1aRHhxdDRuWTg2OTZON1NYNzlDUTZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+https://d302.soft4game.com/o22/stream96/o/stream96/chunks.m3u8?nimblesessionid=36150413&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTA6NTM6MDkgQU0maGFzaF92YWx1ZT1YSDhJNzVucDNGeVdzVjRXZDJqQ0dRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -159,6 +160,18 @@ https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ
 https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ B
+https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8
+#EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ B
+https://live10.watchsoccerlivenews.net/live/buncha_key/playlist.m3u8 
+#EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ B
+https://live10.watchsoccerlivenews.net/live/chimnho_key/playlist.m3u8
+#EXTINF:-1 group-title="HOA ĐÀO TV", PHÁO THẦN B
+https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8
+#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO B
+https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8
+#EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP B
+https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8
+#EXTINF:-1 group-title="HOA ĐÀO TV", HẠT TIÊU B
 https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA
