@@ -35,10 +35,10 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="VOLLEYBALL", XT| KHÁN ĐÀI A
-https://stm02bc48435558.stream.hdplaylink.com/live3/0e0b909153e54acf9d7d13c35a8acfc7_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VOLLEYBALL", XT| KHÁN ĐÀI B
-https://stm02bc48435558.stream.hdplaylink.com/live3/4d0ebf2526a240778cee141273de40b9_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="VOLLEYBALL", XT| Vakifbank Ankara (w) - Ilbank (w)
+https://d302.soft4game.com/o22/stream570/o/stream570/chunks.m3u8?nimblesessionid=36228940&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTE6MzY6MjMgQU0maGFzaF92YWx1ZT15cWJZVitFY2pMd3FzMFhjM3JiREl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="VOLLEYBALL", XT| Zeren (w) - Goztepe (w)
+https://d302.soft4game.com/o22/stream555/o/stream555/chunks.m3u8?nimblesessionid=36229018&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTE6Mzc6NDkgQU0maGFzaF92YWx1ZT1KQllLSXFrenhpSi9iMXQ4Um5uakt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="VOLLEYBALL", XT| PVF: Orlando Valkyries (w) - Atlanta (w)
 https://d302.soft4game.com/o22/stream212/o/stream212/chunks.m3u8?nimblesessionid=36210128&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMToxOTozNCBBTSZoYXNoX3ZhbHVlPTlLN3RnTFFsWjd6VjlWSXc1b2lJUmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 #EXTINF:-1 group-title="VOLLEYBALL", XT| PVF: Ignite (w) - Grand Rapids Rise (w)
@@ -156,7 +156,7 @@ https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8|Referer=htt
 #EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP
 https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", HẠT TIÊU
-https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ
 https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ B
@@ -172,7 +172,7 @@ https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8
 #EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP B
 https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8
 #EXTINF:-1 group-title="HOA ĐÀO TV", HẠT TIÊU B
-https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8
+https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
