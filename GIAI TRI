@@ -50,14 +50,13 @@ https://d302.soft4game.com/o22/stream174/s/stream174/chunks.m3u8?nimblesessionid
 #EXTINF:-1 group-title="VOLLEYBALL", XT| LOVB Women: 08:00 06/02 Madison (w) - LOVB Salt Lake (w)
 https://d302.soft4game.com/o22/stream169/o/stream169/chunks.m3u8?nimblesessionid=36136533&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTo0NDo0MSBBTSZoYXNoX3ZhbHVlPWpRZ25EaDFLdVVIS2hXTkhEdlhtc1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 #EXTINF:-1 group-title="VOLLEYBALL", XT| MLV Women: 08:00 05/02 DALLAS PULSE vs OMAHA SUPERNOVAS
-https://a109.azplay24.me/hls/streama247702/index.m3u8?cst=8eb67d8bcc96a9b2f88dd0aff88f0e17
+https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", XT| DAVIS CUP
-https://d302.soft4game.com/o22/stream536/o/stream536/chunks.m3u8?nimblesessionid=36210282&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMToyMjozOSBBTSZoYXNoX3ZhbHVlPXR1WlJINWVPaFY1ZG92T1BuRDlXVUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", XT| DAVID CUP
-https://d302.soft4game.com/o22/stream537/o/stream537/chunks.m3u8?nimblesessionid=36150456&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTA6NTQ6MzUgQU0maGFzaF92YWx1ZT1CT29ITWw1U0NLaGhTNzNGZkx5cFpRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", XT| PVL 
-https://d302.soft4game.com/o22/stream96/o/stream96/chunks.m3u8?nimblesessionid=36150413&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTA6NTM6MDkgQU0maGFzaF92YWx1ZT1YSDhJNzVucDNGeVdzVjRXZDJqQ0dRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-
+https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
