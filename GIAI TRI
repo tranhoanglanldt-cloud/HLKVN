@@ -1021,122 +1021,242 @@ https://a1xs.vip/1100032
 #EXTINF:-1 group-title="AS | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORTS", Arena Fight HD
-http://79.127.207.193:80/ArenaFight/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="SPORTS", Arena Premium 1 HD
-http://79.127.207.193:80/ArenaPremiumHR1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="SPORTS", Arena Premium 2 HD
-http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="SPORTS", Arena Premium 3 HD
-http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsn4wz1643206149.png" group-title="SPORTS", Arena Sport 1 HD
-http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" group-title="SPORTS", Arena Sport 2 HD
-http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hugsy31643206186.png" group-title="SPORTS", Arena Sport 3 HD
-http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mn99a31643206204.png" group-title="SPORTS", Arena Sport 4 HD
-http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png" group-title="SPORTS", Arena Sport 5 HD
-http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png" group-title="SPORTS", Arena Sport 6 HD
-http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1kc26o1643205642.png" group-title="SPORTS", Arena Sport 7 HD
-http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png" group-title="SPORTS", Arena Sport 9 HD
-http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wntrz71643205857.png" group-title="SPORTS", Arena Sport 10 HD
-http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS", Art Sport 1 HD
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS", Art Sport 2 HD
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS", Art Sport 3 HD
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="SPORTS", Art Sport 4 HD
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="SPORTS", Art Sport 5 HD
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="SPORTS", Art Sport 6 HD
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="SPORTS", BAND HD
-https://02.arlivre.online/band/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="SPORTS", BAND Sport HD
-https://02.arlivre.online/bandsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="SPORTS", Combate HD
-https://02.arlivre.online/combate/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="SPORTS", Espn 2 HD
-https://02.arlivre.online/espn2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="SPORTS", Espn 3 HD
-https://02.arlivre.online/espn3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="SPORTS", Espn 4 HD
-https://02.arlivre.online/espn4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="SPORTS", Espn HD
-https://02.arlivre.online/espn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.worldvectorlogo.com/logos/eurosport-1-logo-2015.svg" group-title="SPORTS", Euro Sport 1 HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="SPORTS", Euro Sport 2 HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="SPORTS", Fight Network HD
-http://79.127.207.193:80/FightNetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="SPORTS", GLOBO SP HD
-https://02.arlivre.online/globosp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="SPORTS", History 2 HD
-https://02.arlivre.online/history2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AIBCNjg.png" group-title="SPORTS", KSport 1 HD
-http://79.127.207.193:80/KSport1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AgJVcFV.png" group-title="SPORTS", KSport 2 HD
-http://79.127.207.193:80/KSport2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Lws2hMt.png" group-title="SPORTS", KSport 3 HD
-http://79.127.207.193:80/KSport3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0UNEZpU.png" group-title="SPORTS", KSport 4 HD
-http://79.127.207.193:80/KSport4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 1 HD
-https://02.arlivre.online/pre1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 2 HD
-https://02.arlivre.online/pre2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 3 HD
-https://02.arlivre.online/pre3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 4 HD
-https://02.arlivre.online/pre4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 5 HD
-https://02.arlivre.online/pre5/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg" group-title="SPORTS", Rai Sport HD
-http://79.127.207.193:80/RaiSport/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png" group-title="SPORTS", RTSH Sport HD
-http://79.127.207.193:80/RTSHSport/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="SPORTS", SBT HD
-https://02.arlivre.online/sbt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SPACE_91.png/revision/latest/scale-to-width-down/250?cb=20190507161026" group-title="SPORTS", SPACE HD
-https://02.arlivre.online/space/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="SPORTS", SporTV 2 HD
-https://02.arlivre.online/sportv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="SPORTS", SporTV 3 HD
-https://02.arlivre.online/sportv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="SPORTS", SporTV HD
-https://02.arlivre.online/sportv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KXdVDis.png" group-title="SPORTS", Super Sport 1 HD
-http://79.127.207.193:80/Supersport1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dz2P72Mx/supersport2.png" group-title="SPORTS", Super Sport 2 HD
-http://79.127.207.193:80/Supersport2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7ySFzl.png" group-title="SPORTS", Super Sport 3 HD
-http://79.127.207.193:80/Supersport3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZF70zIL.png" group-title="SPORTS", Super Sport 4 HD
-http://79.127.207.193:80/Supersport4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ly2J9P.png" group-title="SPORTS", Super Sport 5 HD
-http://79.127.207.193:80/Supersport5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qIYK2nF.png" group-title="SPORTS", Super Sport 6 HD
-http://79.127.207.193:80/Supersport6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d3T85DhV/supersport7.png" group-title="SPORTS", Super Sport 7 HD
-http://79.127.207.193:80/Supersport7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS", TNT HD
-https://02.arlivre.online/tnt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u5MxGbS.png" group-title="SPORTS", Tring Sport 1 HD
-http://79.127.207.193:80/TringSport1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_2_HD_AL_logo.png" group-title="SPORTS", Tring Sport 2 HD
-http://79.127.207.193:80/TringSport2HD/playlist.m3u8
-
+#EXTINF:-1 group-title="SPORTS", Футбол 2 (Украина) насолоджуйтеся
+https://185.82.201.79:443/fooootball2.m3u8
+#EXTINF:-1 group-title="SPORTS", AD Sport 1 (Арабский)
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 group-title="SPORTS", AD Sport 2 HD 720 (Арабский)
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 group-title="SPORTS", Al Kass Sports 1 (Арабский)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="SPORTS", Al Kass Sports 5 (Английский)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="SPORTS", Arena Sport 1 HD
+https://ip2019tv.do.am/sport/Arena_Sport_1.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 2 HD
+https://ip2019tv.do.am/sport/Arena_Sport_2.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 5
+https://ip2019tv.do.am/sport/Arena_Sport_5.m3u8
+#EXTINF:-1 group-title="SPORTS", Arena Sport 6 HD
+https://ip2019tv.do.am/sport/Arena_Sport_6.m3u8
+#EXTINF:-1 group-title="SPORTS", Bein Sports HD01
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50458
+#EXTINF:-1 group-title="SPORTS", Bein Sports HD03
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50456
+#EXTINF:-1 group-title="SPORTS", Bein Sports HD04
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50455
+#EXTINF:-1 group-title="SPORTS", Bein Sports HD07
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50452
+#EXTINF:-1 group-title="SPORTS", Bein Sports HD08
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50451
+#EXTINF:-1 group-title="SPORTS", Bein Sports HD11 (720p)
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/33271
+#EXTINF:-1 group-title="SPORTS", Bein Sports LaLiga HD 720
+http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/16760.m3u8
+#EXTINF:-1 group-title="SPORTS", BigTen Network (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226177/02.m3u8
+#EXTINF:-1 group-title="SPORTS", BT Sports 2 HD
+http://lunaruk.org:25461/Syndrome/Syndrome/20949
+#EXTINF:-1 group-title="SPORTS", BT Sports 3 HD 720
+http://lunaruk.org:25461/Syndrome/Syndrome/20951
+#EXTINF:-1 group-title="SPORTS", CCTV 5 Sport HD (Китайский)
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Chelsea TV HD 720
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
+#EXTINF:-1 group-title="SPORTS", CTPAX HD
+http://what.strah.video/hls/what.m3u8
+#EXTINF:-1 group-title="SPORTS", Dubai Racing HD 720
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS", Dubai Sports (Арабский)
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1130000.m3u
+#EXTINF:-1 group-title="SPORTS", Dubai Sports HD 720 (Арабский)
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1 group-title="SPORTS", Eleven Sports 2 HD (PT)
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50217
+#EXTINF:-1 group-title="SPORTS", Eleven Sports 3 HD 720 (PT)
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/50213
+#EXTINF:-1 group-title="SPORTS", ESPN 1 HD 720
+http://iptv.wtf:8080/xdgbtsmi/pgC7331wtR/4094
+#EXTINF:-1 group-title="SPORTS", ESPN 2 HD 720
+http://iptv.wtf:8080/xdgbtsmi/pgC7331wtR/17424
+#EXTINF:-1 group-title="SPORTS", ESport3 (Испания)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 group-title="SPORTS", Eurosport 1
+http://77.245.98.22:8000/play/307/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Eurosport 1 (UDP)
+http://193.233.175.79:999/udp/239.191.254.46:13343
+#EXTINF:-1 group-title="SPORTS", Eurosport 2
+http://95.128.243.226:7780/udp/224.0.90.62:1234
+#EXTINF:-1 group-title="SPORTS", Eurosport 2 (UDP)
+http://193.233.175.79:999/udp/239.191.254.47:13343
+#EXTINF:-1 group-title="SPORTS", Extreme Sports
+http://95.128.243.226:7780/udp/224.0.90.49:1234
+#EXTINF:-1 group-title="SPORTS", Fight Combat (US)
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/51225
+#EXTINF:-1 group-title="SPORTS", Fight Network HD 720
+http://iptv.wtf:8080/xdgbtsmi/pgC7331wtR/11115
+#EXTINF:-1 group-title="SPORTS", FightBox (EN) HD 720
+https://ip2019tv.do.am/sport/FightBoxEN.m3u8
+#EXTINF:-1 group-title="SPORTS", Flow Sports 1 (Английский)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="SPORTS", FOX Sports 2 HD 720
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/198123.m3u8
+#EXTINF:-1 group-title="SPORTS", Fox Sports Racing HD 720
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 group-title="SPORTS", GTV HD (UA)
+http://77.123.139.122:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", IRC Sport TV (Итальянский)
+http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", KINOBOOM
+http://v2.myowntv.org/content/35448/index.m3u8?seg-vkcom/iptv4.ts
+#EXTINF:-1 group-title="SPORTS", Macquarie Sports HD 720
+https://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/master.m3u8
+#EXTINF:-1 group-title="SPORTS", MostVideo TV HD 720 (Украинский)
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="SPORTS", MUTV
+http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/03.m3u8
+#EXTINF:-1 group-title="SPORTS", NBC Golf HD 720
+http://lunaruk.org:25461/Syndrome/Syndrome/9528
+#EXTINF:-1 group-title="SPORTS", NBS Sports
+http://161.0.157.5/PLTV/88888888/224/3221226881/02.m3u8
+#EXTINF:-1 group-title="SPORTS", NFL Network HD 720
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/198121.m3u8
+#EXTINF:-1 group-title="SPORTS", Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 group-title="SPORTS", Olympic Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="SPORTS", PRO 100 TV
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1 group-title="SPORTS", ProTV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1 group-title="SPORTS", Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="SPORTS", Red Bull TV (Английский)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="SPORTS", Red Bull TV HD (Английский)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="SPORTS", Russian Extreme
+http://92.43.140.249/s47/04.m3u8
+#EXTINF:-1 group-title="SPORTS", Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 group-title="SPORTS", Setanta Sports HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Sharjah Sport (Арабский)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="SPORTS", Sky Sport 24 HD 720
+http://dynproject-tv.ddns.net:8000/vrphhVZDbp/nf364xumYb/761
+#EXTINF:-1 group-title="SPORTS", Sky Sport Formula 1 HD
+http://dynproject-tv.ddns.net:8000/vrphhVZDbp/nf364xumYb/24761
+#EXTINF:-1 group-title="SPORTS", Sky Sport MotoGP HD
+http://dynproject-tv.ddns.net:8000/vrphhVZDbp/nf364xumYb/24767
+#EXTINF:-1 group-title="SPORTS", Sky Sports Golf HD
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/197958.m3u8
+#EXTINF:-1 group-title="SPORTS", Sport Max (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="SPORTS", Sport Max HD 720 (Английский)
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="SPORTS", SportsNet East HD 720
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/59574
+#EXTINF:-1 group-title="SPORTS", SportsNet One HD 720
+http://lunaruk.org:25461/Syndrome/Syndrome/9518
+#EXTINF:-1 group-title="SPORTS", SportsNet West HD 720
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/150276.m3u8
+#EXTINF:-1 group-title="SPORTS", SporTVL Italy (Итальянский)
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
+#EXTINF:-1 group-title="SPORTS", Stad'Afric (Non EN)
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS", STR TV
+http://51.254.59.155/hls/str-tv.m3u8
+#EXTINF:-1 group-title="SPORTS", Super Tennis HD
+http://dynproject-tv.ddns.net:8000/vrphhVZDbp/nf364xumYb/743
+#EXTINF:-1 group-title="SPORTS", TSN 3 HD 720
+http://lunaruk.org:25461/Syndrome/Syndrome/9510
+#EXTINF:-1 group-title="SPORTS", TSN 5 HD 720
+http://lunaruk.org:25461/Syndrome/Syndrome/9508
+#EXTINF:-1 group-title="SPORTS", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS", UFC Fight Pass (US) HD 720
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/53662
+#EXTINF:-1 group-title="SPORTS", Viasat Sport
+http://109.248.236.41:4433/udp/238.1.1.50:1234
+#EXTINF:-1 group-title="SPORTS", Willow HD 720
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/198114.m3u8
+#EXTINF:-1 group-title="SPORTS", XSport (UA)
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/xsport/xsport.m3u8
+#EXTINF:-1 group-title="SPORTS", YAS Sports
+http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8
+#EXTINF:-1 group-title="SPORTS", Ziggo Sport Golf HD
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/1956
+#EXTINF:-1 group-title="SPORTS", Архат ТВ
+http://arhat.tv/public/360p/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Астрахань.Ru Sport
+http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Астрахань.Ru Sport HD 720
+http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Беларусь 5 (UDP)
+http://176.118.156.34:81/udp/230.1.1.9:1234
+#EXTINF:-1 group-title="SPORTS", Боец
+http://95.128.243.226:7780/udp/224.0.91.20:1234
+#EXTINF:-1 group-title="SPORTS", Бойцовский Клуб
+http://37.193.58.164:4022/udp/239.1.12.9:1234
+#EXTINF:-1 group-title="SPORTS", Бокс ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_sq/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Бокс ТВ HD 720
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Бокс ТВ HD 720
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Комедийное
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1 group-title="SPORTS", Конный мир
+http://109.248.236.41:4433/udp/238.1.1.64:1234
+#EXTINF:-1 group-title="SPORTS", КХЛ
+http://95.128.243.226:7780/udp/224.0.91.48:1234
+#EXTINF:-1 group-title="SPORTS", КХЛ HD (UDP)
+http://146.158.117.155:81/udp/239.72.6.169:1234
+#EXTINF:-1 group-title="SPORTS", КХЛ ТВ
+http://78.29.1.70/live/khl/copy/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Матч ТВ HD (UDP)
+http://94.243.222.46:8888/udp/224.200.202.32:1234
+#EXTINF:-1 group-title="SPORTS", Матч!
+http://gorod.tv/s/live/3/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="SPORTS", Матч! Арена HD
+http://94.243.222.46:8888/udp/224.200.240.4:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Игра
+http://95.128.243.226:7780/udp/224.0.90.142:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Игра HD
+http://188.134.76.168:4022/udp/235.10.10.58:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Премьер
+http://95.128.243.226:7780/udp/224.0.91.68:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Премьер HD
+http://78.29.1.66/live/match_premier/copy/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Матч! Футбол 1
+http://95.128.243.226:7780/udp/224.0.91.65:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Футбол 1 HD
+http://94.243.222.46:8888/udp/224.200.233.5:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Футбол 2
+http://95.128.243.226:7780/udp/224.0.91.66:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Футбол 3
+http://95.128.243.226:7780/udp/224.0.91.67:1234
+#EXTINF:-1 group-title="SPORTS", Матч! Футбол 3
+http://95.128.243.226:7780/udp/224.0.91.67:1234
+#EXTINF:-1 group-title="SPORTS", Наш Футбол
+http://95.128.243.226:7780/udp/224.0.91.68:1234
+#EXTINF:-1 group-title="SPORTS", Романтичное
+http://sftr89en.edem.tv/iptv/B4K44SQURMDGXQ/920/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Сделано в СССР
+http://s2.myowntv.org/hls/made_in_ussr.m3u8
+#EXTINF:-1 group-title="SPORTS", Сила HD 720
+https://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1 group-title="SPORTS", Футбол 1 (UA)
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football1/football1.m3u8
+#EXTINF:-1 group-title="SPORTS", Футбол 2 (UA)
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football2/football2.m3u8
+#EXTINF:-1 group-title="SPORTS", Футбол 2 HD (UA)
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football2hd/football2hd.m3u8
+#EXTINF:-1 group-title="SPORTS", Шокирующее
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 
 #EXTINF:-1 group-title="MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
