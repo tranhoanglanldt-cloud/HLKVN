@@ -426,8 +426,6 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-29/auth_master_playlist.m3u8?
 
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", PUMA
-https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", KHOAI TÂY
@@ -438,6 +436,14 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", MASON
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", RƯỢU MẬN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NEM CHUA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", BÓ SỮA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", PUMA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_4.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA A
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA B
@@ -1640,9 +1646,9 @@ http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extensio
 
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", PEAKY BLINDERS-THE IMMORTAL MAN: BÓNG MA ANH QUỐC-NGƯỜI BẤT TỬ
-https://stream03.bapluoc.tv/Peaky.Blinders.The.Immortal.Man.2026.m3u8
+https://stream03.bapluoc.tv/Peaky.Blinders.The.Immortal.Man.2026.m3u8|Referer=https://bapluoc.tv/
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", CRIME 101: TỘI PHẠM 101
-https://stream03.bapluoc.tv/Crime.101.2026.m3u8
+https://stream03.bapluoc.tv/Crime.101.2026.m3u8|Referer=https://bapluoc.tv/
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
 https://vip.opstream90.com/20260225/25764_7bd89d30/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Back to the Past: TẦM TẦN KÝ
@@ -1688,9 +1694,9 @@ https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", OLYMPUS HAS FALLEN: NHÀ TRẮNG THẤT THỦ 
-https://stream03.bapluoc.tv/Olympus.Has.Fallen.2013.m3u8
+https://stream03.bapluoc.tv/Olympus.Has.Fallen.2013.m3u8|Referer=https://bapluoc.tv/
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", LONDON HAS FALLEN: LUÂN ĐÔN THẤT THỦ
-https://stream03.bapluoc.tv/London.Has.Fallen.2016.m3u8
+https://stream03.bapluoc.tv/London.Has.Fallen.2016.m3u8|Referer=https://bapluoc.tv/
 
 
 #EXTINF:-1 group-title="EU | MOVIES HD", .BLACK
