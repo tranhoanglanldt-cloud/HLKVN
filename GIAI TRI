@@ -448,27 +448,27 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 1
-https://cdn.sports-cas889abxfileposo.site/live/live1190/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1201/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 2
-https://cdn.sports-cas889abxfileposo.site/live/live1191/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1202/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 3
-https://cdn.sports-cas889abxfileposo.site/live/live1192/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1203/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 4
-https://cdn.sports-cas889abxfileposo.site/live/live1193/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1204/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 5
-https://cdn.sports-cas889abxfileposo.site/live/live1194/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 6
-https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 7
-https://cdn.sports-cas889abxfileposo.site/live/live1196/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1196/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 8
-https://cdn.sports-cas889abxfileposo.site/live/live1197/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1197/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 9
-https://cdn.sports-cas889abxfileposo.site/live/live1198/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1198/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 10
-https://cdn.sports-cas889abxfileposo.site/live/live1199/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1199/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 11
-https://cdn.sports-cas889abxfileposo.site/live/live1200/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1200/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB|MINH ĐIỀN: Việt Nam vs Germany - FINAL World National Team Championship 2026.
 https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260301/015/292032015/REGL_B40CE219_292032015_1.smil/manifest.m3u8?rp=p03
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB| GẤU MÈO: Việt Nam vs Germany - Chung kết World National Team Championship 2026.
@@ -1906,3 +1906,5 @@ https://vip.opstream16.com/20221122/26373_9079fbe2/3000k/hls/mixed.m3u8
 https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", WRATH OF THE TITANS: SỰ PHẪN NỘ CỦA CÁC VỊ THẦN
 https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
+https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
