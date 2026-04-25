@@ -19,6 +19,10 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 +720
+https://vtvgolive-vtv.vtvdigital.vn/3Nf2_oKBQvG1wQ0Fubs11w/1777093935/vtvgo/vtv9-720p.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 manifest
+https://vtvgolive-vtv.vtvdigital.vn/3Nf2_oKBQvG1wQ0Fubs11w/1777093935/vtvgo/vtv9-manifest.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
@@ -163,85 +167,114 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/vietnamtoday/Free.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", YouTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Sự Kiện 1
+
+
+#EXTINF:-1 group-title="FPV",  FPT Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Event 1
+#EXTINF:-1 group-title="FPV",  FPT Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 2
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Event 2
+#EXTINF:-1 group-title="FPV",  FPT Event 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 3
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 4
+#EXTINF:-1 group-title="FPV",  FPT Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 4
+#EXTINF:-1 group-title="FPV", FPT Event 4
 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 5 
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 5 
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 5
+#EXTINF:-1 group-title="FPV", FPT Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Sự Kiện 6
+#EXTINF:-1 group-title="FPV",  FPT Sự Kiện 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 6
+#EXTINF:-1 group-title="FPV", FPT Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Sự Kiện 7
+#EXTINF:-1 group-title="FPV",  FPT Sự Kiện 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 7 
+#EXTINF:-1 group-title="FPV", FPT Event 7 
 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 8
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 8
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 8
+#EXTINF:-1 group-title="FPV", FPT Event 8
 https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 9
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 9
 https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 9
+#EXTINF:-1 group-title="FPV", FPT Event 9
 https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 10
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 10
 https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 10
+#EXTINF:-1 group-title="FPV", FPT Event 10
 https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 11
+#EXTINF:-1 group-title="FPV", FPT Sự Kiện 11
 https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 11
+#EXTINF:-1 group-title="FPV", FPT Event 11
 https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+1 HD
+#EXTINF:-1 group-title="FPV", TV360+1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+2 HD
+#EXTINF:-1 group-title="FPV", TV360+2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c17f1b571e985f15817351163763bf64:61951ba946496cbfeede334b54a182f8
 https://vietanhtv.id.vn/tv360/1/index.mpd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+3 HD
+#EXTINF:-1 group-title="FPV", TV360+3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
 https://vietanhtv.id.vn/tv360/148/index.mpd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+4 HD
+#EXTINF:-1 group-title="FPV", TV360+4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+9 HD
+#EXTINF:-1 group-title="FPV", TV360+9 HD
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+10 HD
+#EXTINF:-1 group-title="FPV", TV360+10 HD
 https://vietanhtv.id.vn/tv360/9957/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+11 HD
+#EXTINF:-1 group-title="FPV", TV360+11 HD
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+12  HD
+#EXTINF:-1 group-title="FPV", TV360+12  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
 https://vietanhtv.id.vn/tv360/10001/index.mpd
+
+#EXTINF:-1 group-title="FPV", PRIME 1
+https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 2
+https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 3
+https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 4
+https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 5
+https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 6
+https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 7
+https://liveh34byt.vtvprime.vn/hls/SKSS7/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 8
+https://liveh34byt.vtvprime.vn/hls/SKSS8/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 9
+https://liveh34byt.vtvprime.vn/hls/SKSS9/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 10
+https://liveh34byt.vtvprime.vn/hls/SKSS10/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 11
+https://liveh34byt.vtvprime.vn/hls/SKSS11/04.m3u8
+#EXTINF:-1 group-title="FPV", PRIME 12
+https://liveh34byt.vtvprime.vn/hls/SKSS12/04.m3u8
 
 #EXTINF:-1 group-title="SCVcab", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -381,13 +414,13 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV HẠT MÍT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/playlist.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
-https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁO QUẪY
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV MÈO BÉO
-https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
 https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
@@ -518,13 +551,29 @@ https://cdn.sports-cas889abxfileposo.site/live/live1286/index.m3u8
 https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260301/015/292032015/REGL_B40CE219_292032015_1.smil/manifest.m3u8?rp=p03
 
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2
-https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3
-https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4
 https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2
+https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3
+https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4
+https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 5
+https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 6
+https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 7
+https://liveh34byt.vtvprime.vn/hls/SKSS7/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 8
+https://liveh34byt.vtvprime.vn/hls/SKSS8/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 9
+https://liveh34byt.vtvprime.vn/hls/SKSS9/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 10
+https://liveh34byt.vtvprime.vn/hls/SKSS10/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 11
+https://liveh34byt.vtvprime.vn/hls/SKSS11/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 12
+https://liveh34byt.vtvprime.vn/hls/SKSS12/04.m3u8
 
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
@@ -549,31 +598,31 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  HẠT MÍT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PHÁO
-https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", CHIM NHỎ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", VĂN CHUẨN
-https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", MÈO BÉO
-https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", CHÁO QUẪY
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
-https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI KIẾN
-https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI CAT
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", A MẬP
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-map/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-map/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", A TÁO
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-tao/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", A TAI
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", NEYMAR
-https://pull.globalcdnnetworksc2030.info/str01/blv-neymar/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-neymar/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", DYLAN
-https://pull.globalcdnnetworksc2030.info/str01/blv-dylan/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan/index.m3u8|Referer=https://hoadaotv.info/
 #EXTINF:-1 group-title="QUÊ HOA TAM", HOẮC ĐÔ
 https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", MÃ SIÊU
