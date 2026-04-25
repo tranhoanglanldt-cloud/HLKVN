@@ -596,7 +596,9 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  CHÈ XANH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  HẠT MÍT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv3.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM",  QUÊ CHOA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PHÁO
 https://pull.globalcdnnetworksc2031.info/str01/blv-phao/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", CHIM NHỎ
