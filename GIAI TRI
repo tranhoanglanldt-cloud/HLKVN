@@ -414,13 +414,13 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV HẠT MÍT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/playlist.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
-https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁO QUẪY
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV MÈO BÉO
-https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
 https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
@@ -581,14 +581,14 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", VĂN MINH 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", BÒ SỮA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", NEM CHUA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", RƯỢU MẬN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", WATER MERLON
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", TÁO ĐỎ
@@ -596,33 +596,33 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  CHÈ XANH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  HẠT MÍT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv3.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PHÁO
-https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", CHIM NHỎ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", VĂN CHUẨN
-https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", MÈO BÉO
-https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", CHÁO QUẪY
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
-https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI KIẾN
-https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI CAT
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", A MẬP
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-map/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-map/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", A TÁO
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", A TAI
-https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", NEYMAR
-https://pull.globalcdnnetworksc2030.info/str01/blv-neymar/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-neymar/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", DYLAN
-https://pull.globalcdnnetworksc2030.info/str01/blv-dylan/index.m3u8|Referer=https://hoadaotv.info/
+https://pull.globalcdnnetworksc2031.info/str01/blv-dylan/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", HOẮC ĐÔ
 https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", MÃ SIÊU
