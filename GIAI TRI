@@ -18,11 +18,10 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 +720
-https://vtvgolive-vtv.vtvdigital.vn/3Nf2_oKBQvG1wQ0Fubs11w/1777093935/vtvgo/vtv9-720p.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 manifest
-https://vtvgolive-vtv.vtvdigital.vn/3Nf2_oKBQvG1wQ0Fubs11w/1777093935/vtvgo/vtv9-manifest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
@@ -424,7 +423,9 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
 https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
-https://pull-kda.fastestcdn-global.com/live/9a2687953c4e43d2af8e7261e8a7f644/index.m3u8|Referer=https://khandaia3.me/
+https://pull-kda.fastestcdn-global.com/live/fcad8c8a462a4796b4f799d6f889d04d/index.m3u8|Referer=https://khandaia3.me/
+#EXTINF:-1 group-title="VOLLEYBALL", BLV NUI
+https://pull-kda.fastestcdn-global.com/live/7844b426b42644bc981f7a008ccd24a3/index.m3u8|Referer=https://khandaia3.me/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
@@ -437,10 +438,10 @@ http://boxviptv.com:25461/Roma0675/31865526/1353
 http://boxviptv.com:25461/Roma0675/31865526/1255
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM DZRI
 https://d302.soft4game.com/o22/stream213/o/stream213/chunks.m3u8?nimblesessionid=66999352&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI2IDQ6MTY6MjIgQU0maGFzaF92YWx1ZT1rdzV2QmxKL2sxM1JlRm1sbEF6aVhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", STREAM DZRI 1
-https://d302.soft4game.com/o22/stream176/o/stream176/chunks.m3u8?nimblesessionid=67001703&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI2IDU6MDc6NTggQU0maGFzaF92YWx1ZT1xemtodkpyUml2L003NHRmNTJoU01nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", STREAM DZRI 2
-https://d302.soft4game.com/o22/stream218/o/stream218/chunks.m3u8?nimblesessionid=67001765&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI2IDU6MDg6NTggQU0maGFzaF92YWx1ZT1XUG5RdzZobHQ2V21MRnhXOG9xU2tBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="VOLLEYBALL", KDA| KAKA
+https://pull-kda.fastestcdn-global.com/live/fcad8c8a462a4796b4f799d6f889d04d/index.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", KDA| NUI
+https://pull-kda.fastestcdn-global.com/live/7844b426b42644bc981f7a008ccd24a3/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM 1
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM 5
