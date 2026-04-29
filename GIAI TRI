@@ -379,11 +379,11 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV TÁO ĐỎ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="BASKETBALL", BLV COZY
 https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
@@ -410,8 +410,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV HẠT MÍT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
 https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
@@ -428,10 +426,12 @@ https://pull-kda.fastestcdn-global.com/live/fcad8c8a462a4796b4f799d6f889d04d/ind
 https://pull-kda.fastestcdn-global.com/live/7844b426b42644bc981f7a008ccd24a3/index.m3u8|Referer=https://khandaia3.me/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
-#EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+#EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT 1
+http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT 3
+http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", TRT SPOR HD
-http://boxviptv.com:25461/Roma0675/31865526/199
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19068/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", TRT SPOR YILDIZ
 http://boxviptv.com:25461/Roma0675/31865526/1353
 #EXTINF:-1 group-title="VOLLEYBALL", tabii Spor ʜᴅ
@@ -516,41 +516,40 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-21/auth_playlist.m3u8?aid=.A3
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB| Minhdien
 https://live-global-cdn-v02.sooplive.com/live-stm-07/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.lWssgpm8OLaB05eVyN0SzLwwPlKiMjp5KyL8h_PEJZj4rXkBOP4BAh7UNmcaNpjEdRI18XWvTWqjbUy7FDwBi4DMX1MgwLYGMi2IYTU6XKQvmiQJVgrxAKs3MHUd0h-u_O6slD7TXeKMG5cVfMcw68PhUaADAFru895KBov2pg873hdy995fW14y_X_CvSY3
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 1
-https://cdn.sports-cas889abxfileposo.site/live/live1271/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1563/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 2
-https://cdn.sports-cas889abxfileposo.site/live/live1272/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1564/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 3
-https://cdn.sports-cas889abxfileposo.site/live/live1273/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1565/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 4
-https://cdn.sports-cas889abxfileposo.site/live/live1274/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1566/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 5
-https://cdn.sports-cas889abxfileposo.site/live/live1275/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1567/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 6
-https://cdn.sports-cas889abxfileposo.site/live/live1276/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1568/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 7
-https://cdn.sports-cas889abxfileposo.site/live/live1277/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1569/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 8
-https://cdn.sports-cas889abxfileposo.site/live/live1278/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1570/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 9
-https://cdn.sports-cas889abxfileposo.site/live/live1279/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1571/index.m3u8|Referer=https://choangtv5.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 10
-https://cdn.sports-cas889abxfileposo.site/live/live1280/index.m3u8|Referer=https://choangtv2.com/
-#EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 11
-https://cdn.sports-cas889abxfileposo.site/live/live1281/index.m3u8|Referer=https://choangtv2.com/
-#EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 12
-https://cdn.sports-cas889abxfileposo.site/live/live1282/index.m3u8|Referer=https://choangtv2.com/
-#EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 13
-https://cdn.sports-cas889abxfileposo.site/live/live1283/index.m3u8|Referer=https://choangtv2.com/
-#EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 14
-https://cdn.sports-cas889abxfileposo.site/live/live1284/index.m3u8|Referer=https://choangtv2.com/
-#EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 15
-https://cdn.sports-cas889abxfileposo.site/live/live1285/index.m3u8|Referer=https://choangtv2.com/
-#EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 16
-https://cdn.sports-cas889abxfileposo.site/live/live1286/index.m3u8
+https://cdn.sports-cas889abxfileposo.site/live/live1572/index.m3u8|Referer=https://choangtv5.com/
+#EXTINF:-1 group-title="BADMINTON vs POOL", SABONG 1
+https://cdn.livega.tv/live/2d1ec3fa09775764196971c8840bc6ab/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", SABONG 2
+https://cdn.livega.tv/live/0fda3d97812098ad242c495d9fb07cc3/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", SABONG 3
+https://cdn.livega.tv/live/9a855e12d0ac40d55ad48b225ef3dd94/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", SABONG 4
+https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", SABONG 5
+https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
 
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB|MINH ĐIỀN: Việt Nam vs Germany - FINAL World National Team Championship 2026.
 https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260301/015/292032015/REGL_B40CE219_292032015_1.smil/manifest.m3u8?rp=p03
-
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4192698907249061_AiSD.m3u8?txSecret=c26dc90e8cc3b55a626bfe15c2df0393&txTime=69F030C0
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1
 https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2
@@ -561,20 +560,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 5
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 6
-https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 7
-https://liveh34byt.vtvprime.vn/hls/SKSS7/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 8
-https://liveh34byt.vtvprime.vn/hls/SKSS8/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 9
-https://liveh34byt.vtvprime.vn/hls/SKSS9/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 10
-https://liveh34byt.vtvprime.vn/hls/SKSS10/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 11
-https://liveh34byt.vtvprime.vn/hls/SKSS11/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 12
-https://liveh34byt.vtvprime.vn/hls/SKSS12/04.m3u8
 
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
@@ -588,7 +573,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", RƯỢU MẬN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", WATER MERLON
+#EXTINF:-1 group-title="QUÊ HOA TAM", MERLON
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
@@ -596,8 +581,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  CHÈ XANH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  HẠT MÍT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  QUÊ CHOA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PHÁO
@@ -710,8 +693,8 @@ https://live5.msrktz.app/live/88508431.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
 https://tdlive.zlylive.com/live/tdtv_blv_namtao/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV BẮC ĐẨU
-https://tdlive.zlylive.com/live/tdtv_blv_bacdau/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO THIÊN VƯƠNG
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO MÈO
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO XANH
@@ -741,7 +724,7 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO Y TẾ
 https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO THIÊN VƯƠNG
-https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
 
 
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", XÂY CON
@@ -785,6 +768,7 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 
 
+
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN BÁCH
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN TÔ
@@ -803,8 +787,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", THIÊN LÔI
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN HEO 
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", LƯƠNG BỐNG 
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN MÃO 
@@ -833,50 +815,67 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
 https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN TÔM A
 https://hqlive.zlylive.com/live/hqtv_blv_phantom/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI ĐÔ
-https://gckc0525.edgemaxcdn.org/live/chuoidoo/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI VÀNG
-https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI TÂY
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI TO
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI TIÊU
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI HỘT
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHỒN
-https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI NƯỚNG
-https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", A TÍCH
-https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", BẮP CẢI
-https://gckc0525.edgemaxcdn.org/live/bapcai/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", QUAN VŨ
-https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", ZEMAN
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 01
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 02
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 03
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 04
-https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 05
-https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 06
-https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 07
-https://gckc0525.edgemaxcdn.org/live/m5x7/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 08
-https://gckc0525.edgemaxcdn.org/live/m5x8/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 09
-https://gckc0525.edgemaxcdn.org/live/m5x9/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 10
-https://gckc0525.edgemaxcdn.org/live/m5x10/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+
+
+#EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A RÙA
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A SẾU
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A GẤU
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A CHIẾN
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 group-title="CAKHIATV", THÍCH ĐỦ THỨ
+https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+
+#EXTINF:-1 group-title="CAKHIATV", DERICE
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 group-title="CAKHIATV", GÀ PHÁP
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 group-title="CAKHIATV", HOÀNG CÁI
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 group-title="CAKHIATV", PHONG VÂN
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 group-title="CAKHIATV", A GẤU
+https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
+#EXTINF:-1 group-title="CAKHIATV", VĂN GÔN
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 group-title="CAKHIATV", VĂN VỞ
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A BẨY
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A CHOÉN
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A HỔ
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A HÚP
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A KÊ
+
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A KHOAI
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A LONG
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A MÂY
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A MÈO
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A MIKE
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A PÁO
+https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A PHỆ
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A SÚN
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A TÁO
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A TỨ
+
+#EXTINF:-1 group-title="CAKHIATV", GIÀNG A VOI
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 
 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
@@ -943,6 +942,14 @@ https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769651073-0-0-55d5
 https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAO ĐỎ 
 https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5b1d87c3cbbd3&txTime=694c555d 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LOKA
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SATIVA
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ROSI
+https://live.inplyr.com/room/9912102.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RICKHANTER
+https://live.inplyr.com/room/9912101.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A PÁO
 https://live.inplyr.com/room/235232.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÙNG A MÚP 
@@ -953,6 +960,8 @@ https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678f
 https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=57bff280b61906b71369ee0fdaa866d5&txTime=697c529d
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BONBON
+https://live.inplyr.com/room/597924.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KEM 
@@ -982,67 +991,68 @@ https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769652333-0-0-eb5d
 
 
 #EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="LƯƠNG SƠN", LÝ QUỲ 
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3 
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3 
 #EXTINF:-1 group-title="LƯƠNG SƠN", SHINKA
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="LƯƠNG SƠN", KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
+https://hls-ls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
 #EXTINF:-1 group-title="LƯƠNG SƠN", VÕ TÒNG 
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
+https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
 #EXTINF:-1 group-title="LƯƠNG SƠN", MÃ SIÊU 
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
+https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
 #EXTINF:-1 group-title="LƯƠNG SƠN", KEVILL 
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107 
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TỐNG GIANG 
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca 
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca 
 #EXTINF:-1 group-title="LƯƠNG SƠN", HOA VINH 
-https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb 
+https://hls-ls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb 
 #EXTINF:-1 group-title="LƯƠNG SƠN", VĂN VỸ 
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a 
+https://hls-ls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a 
 #EXTINF:-1 group-title="LƯƠNG SƠN", LƯU BỊ 
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1 
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TẦN CA 
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68 
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68 
 #EXTINF:-1 group-title="LƯƠNG SƠN", KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 group-title="LƯƠNG SƠN", TRƯƠNG THANH 
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973 
+https://hls-ls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973 
 #EXTINF:-1 group-title="LƯƠNG SƠN", QUAN VŨ 
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7 
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7 
 #EXTINF:-1 group-title="LƯƠNG SƠN", NGŨ CA 
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526 
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TRIỆU TỬ LONG 
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070 
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070 
 #EXTINF:-1 group-title="LƯƠNG SƠN", PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="LƯƠNG SƠN", LỮ BỐ 
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1 
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1 
 #EXTINF:-1 group-title="LƯƠNG SƠN", VƯƠNG LUÂN 
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f 
+https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f 
 #EXTINF:-1 group-title="LƯƠNG SƠN", A TỦA 
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74 
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74 
 #EXTINF:-1 group-title="LƯƠNG SƠN", CHU ĐỒNG 
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46 
+https://hls-ls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46 
 #EXTINF:-1 group-title="LƯƠNG SƠN", LÝ ỨNG 
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d 
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d 
 #EXTINF:-1 group-title="LƯƠNG SƠN", NHỊ CA 
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd 
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TÂY MÔN KHÁNH 
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da 
+https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TÔN LẬP 
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df 
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df 
 #EXTINF:-1 group-title="LƯƠNG SƠN", KHỔNG MINH 
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31 
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31 
 #EXTINF:-1 group-title="LƯƠNG SƠN", GIÁO SƯ XOAY 
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
+https://hls-ls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
 #EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG QUÁ 
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
+https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
 #EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| ESPN 6 HD BR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19057/index.m3u8
@@ -1215,14 +1225,22 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| STRONGMAN 
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT HD
+http://87.246.54.249:8080/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 2 HD
+http://87.246.54.249:8080/DiemaSport2/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 3 HD
+http://87.246.54.249:8080/DiemaSport3/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 1 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+http://87.246.54.249:8080/MaxSport1/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 2 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+http://87.246.54.249:8080/MaxSport2/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 3 HD
+http://87.246.54.249:8080/MaxSport3/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 4 HD
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-#EXTINF:-1 group-title="EU | SPORTS HD", AG| TYC SPORT
-http://myxpanel.pro:80/Martin/Martin/670987
+http://87.246.54.249:8080/MaxSport4/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG| NOVA SPORT
+http://87.246.54.249:8080/NovaSport/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BK| SPORT KLUB 1 HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917287&extension=ts
 #EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 2 HD
@@ -1308,6 +1326,22 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7306/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 1 HD
 http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 2 HD
+http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD
+http://de.seetv.cc/play/5441/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 2
+http://de.seetv.cc/play/5442/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 3
+http://de.seetv.cc/play/5443/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 4
+http://de.seetv.cc/play/5444/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 5
+http://de.seetv.cc/play/5445/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 6
+http://de.seetv.cc/play/5446/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 7
+http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport SuperHD 8
 http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PT| Sport TV 1
 http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700244
