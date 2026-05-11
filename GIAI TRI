@@ -842,7 +842,6 @@ https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taothienvuong/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", A CỎ
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", BỊP CON
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", CÁ KOI
@@ -880,7 +879,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU TRÀ ĐÁ
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU PÁO
-https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU ĐÔ
 https://bglive.yarncdn.live/live/bgtv_blv_tieudo/playlist.m3u8
