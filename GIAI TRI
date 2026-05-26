@@ -408,7 +408,7 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8|Referer=https://khandaia.pro/
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 1
@@ -757,25 +757,23 @@ https://tqlive.yarncdn.live/live/tqtv_blv_modungphuc/playlist.m3u8
 
 
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A CỎ
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", BỊP CON
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", CHIẾN THẦN
-https://xclive.yarncdn.live/live/xctv_blv_chienca/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", H+
-https://xclive.yarncdn.live/live/xctv_blv_hatplus/playlist.m3u8
-https://xclive.yarncdn.live/live/xctv_blv_hatplus/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", HÀN TÍN
-https://xclive.yarncdn.live/live/xctv_blv_hantin/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", LỬNG MẬT
-https://xclive.yarncdn.live/live/xctv_blv_lungmat/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_lungmat/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", NGƯỜI KIẾN
-https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", THỢ LẶN
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN TÍCH
-https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A LỀNH
 https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A PHỦ
