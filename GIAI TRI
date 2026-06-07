@@ -374,9 +374,9 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="BASKETBALL", BLV COZY
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
-https://live5.msrktz.app/live/82054853.m3u8 
+https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:-1 group-title="BASKETBALL", BLV POCARI
+https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV A LỎ
 https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 group-title="BASKETBALL", BLV PHONG VÂN
@@ -569,6 +569,8 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", VĂN MINH 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", DƯA HẤU 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NEM CHUA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", PUMA
@@ -579,80 +581,120 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", VỎ QUÝT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", QUÊ CHOA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ISCO
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", T-REX
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NHẬT TINH NGAO
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhat-tinh-ngao/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", BỆU
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", XE ÔM
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-xe-om/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ISCO
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NHẬT TINH NGAO
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", T-REX
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", MƠ
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ANH HỘT
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ANH QUẤT
+https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ANH SÓI
+https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI BƠ
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI CHÁY
+https://gckc0525.edgemaxcdn.org/live/chuoichay.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI NHỎ
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TÂY
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TIÊU
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TÍM
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TO
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI XUYÊN KHÔNG
+https://gckc0525.edgemaxcdn.org/live/chuoixuyenkhong.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CẬU CẢ
+https://gckc0525.edgemaxcdn.org/live/cauca.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ROCKIE
+https://gckc0525.edgemaxcdn.org/live/rockie.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", TRỐC TRU
+https://gckc0525.edgemaxcdn.org/live/troctru.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", MAX
+https://gckc0525.edgemaxcdn.org/live/max.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NGỘ KHÔNG
+https://gckc0525.edgemaxcdn.org/live/ngokhong.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 1
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 2
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 3
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 4
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv|Referer=https://lauech.bonglau.tv/
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 5
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv|Referer=https://lauech.bonglau.tv/
 
 
 #EXTINF:-1 group-title="COLA TV", COCA 
-https://live5.msrktz.app/live/24561735.m3u8 
+https://live05.msdht.app/live/24561735.m3u8 
 #EXTINF:-1 group-title="COLA TV", COZY
-https://live5.msrktz.app/live/87379114.m3u8
+https://live05.msdht.app/live/87379114.m3u8
 #EXTINF:-1 group-title="COLA TV", FANTA
-https://live5.msrktz.app/live/71426314.m3u8
+https://live05.msdht.app/live/71426314.m3u8
 #EXTINF:-1 group-title="COLA TV", AQUA
-https://live5.msrktz.app/live/18812304.m3u8
+https://live05.msdht.app/live/18812304.m3u8
 #EXTINF:-1 group-title="COLA TV", LAVIE
-https://live5.msrktz.app/live/75748097.m3u8
+https://live05.msdht.app/live/75748097.m3u8
 #EXTINF:-1 group-title="COLA TV", MONSTER 
-https://live5.msrktz.app/live/75915087.m3u8 
+https://live05.msdht.app/live/75915087.m3u8 
 #EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
-https://live5.msrktz.app/live/87547578.m3u8 
+https://live05.msdht.app/live/87547578.m3u8 
 #EXTINF:-1 group-title="COLA TV", PEPSI
-https://live5.msrktz.app/live/43612277.m3u8
+https://live05.msdht.app/live/43612277.m3u8
 #EXTINF:-1 group-title="COLA TV", REDBULL
-https://live5.msrktz.app/live/14830711.m3u8
+https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", REVIVE
-https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 group-title="COLA TV", ROCKSTAR 
-https://live5.msrktz.app/live/82054853.m3u8 
+https://live05.msdht.app/live/33982309.m3u8
+#EXTINF:-1 group-title="COLA TV", POCARI 
+https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live5.msrktz.app/live/07808742.m3u8
+https://live05.msdht.app/live/07808742.m3u8
 #EXTINF:-1 group-title="COLA TV", SODA 
-https://live5.msrktz.app/live/02456966.m3u8
+https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 group-title="COLA TV", SPRITE 
-https://live5.msrktz.app/live/90725470.m3u8
+https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 group-title="COLA TV", STING 
-https://live5.msrktz.app/live/14707124.m3u8 
+https://live05.msdht.app/live/14707124.m3u8 
 #EXTINF:-1 group-title="COLA TV", TEPPY 
-https://live5.msrktz.app/live/59444581.m3u8 
+https://live05.msdht.app/live/59444581.m3u8 
 #EXTINF:-1 group-title="COLA TV", WARRIOR 
-https://live5.msrktz.app/live/97885009.m3u8 
+https://live05.msdht.app/live/97885009.m3u8 
 #EXTINF:-1 group-title="COLA TV", 7 UP 
-https://live5.msrktz.app/live/78905744.m3u8 
+https://live05.msdht.app/live/78905744.m3u8 
 #EXTINF:-1 group-title="COLA TV", 247
-https://live5.msrktz.app/live/90865415.m3u8 
+https://live05.msdht.app/live/90865415.m3u8 
 #EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live5.msrktz.app/live/99121525.m3u8
+https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 group-title="COLA TV", C2 
-https://live5.msrktz.app/live/08552895.m3u8 
+https://live05.msdht.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", CHANH MUỐI
-https://live5.msrktz.app/live/08552895.m3u8 
+https://live05.msdht.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", DR THANH 
-https://live5.msrktz.app/live/79665343.m3u8 
+https://live05.msdht.app/live/79665343.m3u8 
 #EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
-https://live5.msrktz.app/live/14830711.m3u8
+https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", HỔ VẰN
-https://live5.msrktz.app/live/07428422.m3u8
+https://live05.msdht.app/live/07428422.m3u8
 #EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
-https://live5.msrktz.app/live/41943555.m3u8
+https://live05.msdht.app/live/41943555.m3u8
 #EXTINF:-1 group-title="COLA TV", Ô LONG 
-https://live5.msrktz.app/live/97312754.m3u8 
+https://live05.msdht.app/live/97312754.m3u8 
 #EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
-https://live5.msrktz.app/live/88508431.m3u8 
+https://live05.msdht.app/live/88508431.m3u8 
 
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN BÁCH
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -662,21 +704,23 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV TÁO KINH TẾ
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG +
-https://tdlive.yarncdn.live/live/tdtv_blv_thanthong/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV TÁO MÈO
-https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN ANH
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", LƯƠNG BỐNG 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN CA 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV TÁO MÈO
+https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN QUẨY
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN MÃ 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN TÔ
 https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN MÃ 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN LÂM
 https://hqlive.yarncdn.live/live/hqtv_blv_phanlam/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN MÃO 
@@ -689,8 +733,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", CỦ HÀNH 
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", LƯƠNG BỐNG 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV NAM TÀO
 https://tdlive.yarncdn.live/live/tdtv_blv_namtao/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV NGỌC HOÀNG
@@ -726,22 +768,28 @@ https://xclive.yarncdn.live/live/xctv_blv_chienca/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", HÀN TÍN
 https://xclive.yarncdn.live/live/xctv_blv_hantin/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LUKA
+https://xclive.yarncdn.live/live/xctv_blv_luka/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", LỬNG MẬT
 https://xclive.yarncdn.live/live/xctv_blv_lungmat/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", NGƯỜI KIẾN
 https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", PHÒ MÃ
+https://xclive.yarncdn.live/live/xctv_blv_muphoma/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", PHỦ BÉO
 https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", QUAN VŨ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", PHÒ MÃ
-https://xclive.yarncdn.live/live/xctv_blv_muphoma/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", RỒNG ĐẤT
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TAM MAO
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", THỢ LẶN
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN TÍCH
 https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", CHIM NHỎ
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A LỀNH
 https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A PHỦ
@@ -752,12 +800,10 @@ https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", KHÔ MỰC
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", MASON
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN PHONG
 https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BÀ XÃ
-https://bglive.yarncdn.live/live/bgtv_blv_baxa/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BẢO
 https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU ĐÔ
@@ -766,8 +812,12 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieudo/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU PÁO
 https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BÀ XÃ
+https://bglive.yarncdn.live/live/bgtv_blv_baxa/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU NGOAN ĐỒNG
 https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
